@@ -1,0 +1,11 @@
+h1 {color: white; font-size: 30pt;} 
+Body { background: blue; 
+	     color:white;
+	     font-size: 12pt;
+	     font-family: 'poppin';
+	   }
+nav a {	display: inline-block;
+        	border: 3px white;
+        	padding: 12px;
+		margin: 6px;
+		background: white;}
